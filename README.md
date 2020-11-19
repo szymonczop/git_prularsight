@@ -1,2 +1,2 @@
 # git_prularsight
-repo made for learning git at pluralsight
+Repo made for learning git at pluralsight
