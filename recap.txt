@@ -1,3 +1,7 @@
 Tutaj szybkie przypomnienie o co chodzi
 Dodatkowe informacje
-Dodanie linijki z internetu 
+Dodanie linijki z internetu
+linijka kodu 1
+linijka kodu 2
+linijka kodu 3
+ 
