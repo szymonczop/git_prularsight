@@ -1,2 +1,0 @@
-To jest mój plik który chcę dodac do mojego repo. 
-
